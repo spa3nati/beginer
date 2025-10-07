@@ -1,2 +1,2 @@
-just started
+# getting started
 new guy here!
